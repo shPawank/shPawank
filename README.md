@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Passionate learner and tech enthusiast | 💻 MERN Stack Developer in progress | 📚 Lifelong student | 🎯 Focused on WordPress, PHP, and creating innovative solutions | 🌍 Exploring the digital world one project at a time | ⚡ Problem solver | 🎨 Aspiring to blend creativity with technology!
+🌟 Passionate learner and tech enthusiast | 📚 Lifelong student | 🎯 Focused on WordPress, PHP, and creating innovative solutions | 🌍 Exploring the digital world one project at a time | ⚡ Problem solver | 🎨 Aspiring to blend creativity with technology!
 
 
 ## 🌐 Socials:
